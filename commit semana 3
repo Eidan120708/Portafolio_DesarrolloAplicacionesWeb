@@ -1,0 +1,1 @@
+se agrego Bootstrap y fragmentos Thymeleaf para mejorar la apariencia del sitio, ahora la navbar tiene dropdowns y soporte para 4 idiomas. También conecté la base de datos MySQL local y arreglé el listado de categorías con sus imágenes.
