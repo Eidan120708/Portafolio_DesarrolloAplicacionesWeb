@@ -1,0 +1,7 @@
+- ProductoRepository con 3 tipos de consulta por rango de precio
+- ProductoService con métodos consultaDerivada, consultaJPQL y consultaSQL
+- ConsultaController con endpoints GET y POST para las 3 consultas
+- listado.html en templates/consultas
+- fragmentos.html de consultas actualizado con formularios parametrizados y tarjetas
+- Menú de Extras reemplazado por enlace directo a Consultas
+- Correcion de errores con fragmentos
